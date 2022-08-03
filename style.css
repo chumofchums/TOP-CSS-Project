@@ -29,7 +29,9 @@ li {
 
 .main-text {
   width: 70%;
-  padding-left: 10em;
+  padding-left: 120px;
+  display: flex;
+  flex-direction: column;
 }
 
 .main-img {
