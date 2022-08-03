@@ -1,0 +1,27 @@
+.header {
+  background-color: #1F2937;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 8px;
+}
+
+.main {
+  background-color: #1F2937;
+  color: white;
+
+}
+
+img {
+  max-width: 30%;
+  height: auto;
+}
